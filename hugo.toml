@@ -1,0 +1,87 @@
+baseURL = 'https://{{CLIENT_NAME}}.ttmenus.com/'
+languageCode = 'en-tt'
+title = '{{SITE_TITLE}}'
+theme = '_menus_ttms'
+
+[params]
+  authServiceUrl = "https://auth.ttmenus.com"
+  contentServiceUrl = "https://content.ttmenus.com"
+  adsServiceUrl = "https://ads.ttmenus.com"
+
+# Auth Service Configuration
+[params.auth]
+  enabled = true
+  apiUrl = "https://auth.ttmenus.com/api/v1"
+
+# Content Service Configuration (for Update UI)
+[params.content]
+  enabled = true
+  apiUrl = "https://content.ttmenus.com/api"
+  clientId = "ttms_{{CLIENT_NAME}}"
+
+# Ads Service Configuration
+[params.ads]
+  enabled = true
+  apiUrl = "https://ads.ttmenus.com/api/v1"
+  clientId = "ttms_{{CLIENT_NAME}}"
+
+[params.services]
+  onesignalid = ""
+  analyticsid = {{ANALYTICS_ID}}
+  notifications = true
+
+[params.features]
+  payments = false
+  delivery = false
+  notifications = true
+
+[params.orderingsystem]
+  vat = 0
+  servicecharge = 0
+  hastables = true
+  whatsapp = {{WHATSAPP}}
+
+[params.orderingmenu]
+  sidesname = "Rolls"
+  
+# Social profiles
+[params.social]
+  facebook = ""
+  instagram = ""
+  tiktok = ""
+  youtube = ""
+  email = "{{EMAIL}}"
+  phone = {{PHONE}}
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      attribute = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+  page = ["HTML", "JSON"]
+
+[outputFormats]
+  [outputFormats.menuitemsJSON]
+    mediaType = "application/json"
+    baseName = "menu-items"
+    isPlainText = true
+    notAlternative = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  subcategory = "subcategories"
+  type = "types"
+  event = "events"
+  ingredient ="ingredients"
+  cookingmethod ="cookingmethods"
+
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = false

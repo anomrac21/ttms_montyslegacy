@@ -1,0 +1,142 @@
+locations:
+  - address: Rodney Rd, Endeavour
+    city: Chaguanas
+    island: Trinidad
+    subcategories: 
+      - Restaurant
+      - Bar
+    latlon: [10.525849712311333,-61.40296428581248]
+    phone: 18687060349
+    whatsapp: 18687060349
+    orderingtables: ["Takeway Only"]
+    delivery:
+      fooddrop: https://fooddropcaribbean.com/en/store/OMGSushi!Chaguanas/1580154?merchant_id=1580154
+    opening_hours:
+      mode: Auto
+      sun:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      mon:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      tue:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      wed:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      thu:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      fri:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      sat:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+  - address: Southern Main Road, Curepe
+    city: Curepe
+    island: Trinidad
+    latlon: [10.6376341,-61.411402]
+    phone: 18687060349
+    whatsapp: 18687060349
+    orderingtables: ["Takeway Only", "Tables H1"]
+    delivery:
+      fooddrop: https://fooddropcaribbean.com/en/store/OMGSushi!Curepe/809792?merchant_id=809792
+    subcategories: ["Restaurant"]
+    opening_hours:
+      mode: Auto
+      sun:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      mon:
+        - type: Open
+          time: "11:00"
+      tue:
+        - type: Close
+          time: "02:00"
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      wed:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      thu:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      fri:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+      sat:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "22:00"
+  - address: Twin Walls, South Trunk Rd, San Fernando
+    city: San Fernando
+    island: Trinidad
+    latlon: [10.258037311867925,-61.467001467451055]
+    phone: 18687060349
+    whatsapp: 18687060349
+    orderingtables: ["Takeway Only"]
+    subcategories: ["Restaurant"]
+    opening_hours:
+      mode: Auto
+      sun:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "20:00"
+      mon:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "20:00"
+      tue:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "20:00"
+      wed:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "20:00"
+      thu:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "20:00"
+      fri:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "20:00"
+      sat:
+        - type: Open
+          time: "11:00"
+        - type: Close
+          time: "21:00"
