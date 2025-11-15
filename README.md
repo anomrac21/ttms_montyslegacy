@@ -45,6 +45,24 @@ https://github.com/anomrac21/ttms-app-cluster (subdirectory: `_menus_ttms`)
 5. Creates a new GitHub repository
 6. Deploys to Netlify
 
+## GitHub Actions Deployment
+
+Every client repository generated from this template includes a workflow at
+`.github/workflows/deploy-netlify.yml`. The workflow builds the Hugo site on each
+push to `master` and uploads the generated `public/` folder directly to Netlify.
+
+The following GitHub Actions secrets must be present in each client repository:
+
+| Secret | Description |
+|--------|-------------|
+| `NETLIFY_AUTH_TOKEN` | Netlify personal access token with `sites:write` permissions. Used to upload the build artifact. |
+| `NETLIFY_SITE_NAME`  | The Netlify site slug (e.g. `ttms_clientname`). |
+
+The Client Provisioning Service automatically sets these secrets after creating
+the Netlify site, so no manual changes are normally required. If provisioning a
+repository manually, be sure to add the secrets above before pushing to `master`
+to allow deployments to succeed.
+
 ## Local Development
 
 ```bash
