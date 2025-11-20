@@ -5,14 +5,12 @@
 [build.environment]
   HUGO_VERSION = "0.121.1"
   HUGO_ENV = "production"
-  # CRITICAL: Set to "none" to prevent Netlify from cloning submodules during "preparing repo" stage
-  # This avoids SSH host key verification errors. Submodules will be handled by build_menu.sh instead
-  GIT_SUBMODULE_STRATEGY = "none"
+   GIT_SUBMODULE_STRATEGY = "recursive"
   # Disable SSH prompts
   GIT_TERMINAL_PROMPT = "0"
 
 [context.production.environment]
-  GIT_SUBMODULE_STRATEGY = "none"
+  GIT_SUBMODULE_STRATEGY = "recursive"
   GIT_TERMINAL_PROMPT = "0"
 
 [[redirects]]
