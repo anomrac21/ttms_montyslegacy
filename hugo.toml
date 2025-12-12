@@ -7,6 +7,7 @@ theme = '_menus_ttms'
   authServiceUrl = "https://auth.ttmenus.com"
   contentServiceUrl = "https://content.ttmenus.com"
   adsServiceUrl = "https://ads.ttmenus.com"
+  notifyServiceUrl = "https://notify.ttmenus.com"
 
 # Auth Service Configuration
 [params.auth]
@@ -24,6 +25,12 @@ theme = '_menus_ttms'
   enabled = true
   apiUrl = "https://ads.ttmenus.com/api/v1"
   clientId = "ttms_{{CLIENT_NAME}}"
+
+# Notification Service Configuration
+[params.notifications]
+  enabled = true
+  apiUrl = "https://notify.ttmenus.com/api/v1"
+  websocketUrl = "wss://notify.ttmenus.com/api/v1/ws/connect"
 
 [params.services]
   onesignalid = ""

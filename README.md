@@ -13,6 +13,35 @@ The following placeholders will be automatically replaced when creating a new cl
 - `{{PHONE}}` - Phone contact number
 - `{{EMAIL}}` - Email contact address
 
+## Services Configuration
+
+The template includes configuration for the following services:
+
+### Auth Service
+- User authentication and authorization
+- JWT token management
+- User roles and permissions
+
+### Content Service
+- Menu content management
+- Update UI functionality
+
+### Ads Service
+- Advertisement management
+- Client-specific ad campaigns
+
+### Notification Service
+- Push notifications (web and mobile)
+- Real-time WebSocket notifications
+- Notification subscriptions and delivery
+
+All services are pre-configured with default URLs. The notification service is enabled by default and will automatically:
+- Subscribe authenticated users
+- Connect via WebSocket for real-time notifications
+- Display notifications in the UI
+
+See the theme documentation for notification service integration details.
+
 ## Structure
 
 ```
