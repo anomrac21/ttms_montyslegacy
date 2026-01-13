@@ -1,6 +1,6 @@
 baseURL = 'https://montyslegacy.ttmenus.com/'
 languageCode = 'en-tt'
-title = 'Monty's Legacy'
+title = "Monty's Legacy"
 theme = '_menus_ttms'
 
 [params]
