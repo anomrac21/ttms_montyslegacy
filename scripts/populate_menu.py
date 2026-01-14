@@ -294,9 +294,9 @@ def get_ingredients_cookingmethods_types(name, title, category):
         elif "brain hemorrhage" in name_lower:
             ingredients.extend(["Peach Schnapps", "Irish Cream", "Grenadine"])
         elif "liquid cocaine" in name_lower:
-            ingredients.extend(["Jägermeister", "Rumple Minze", "Goldschlager"])
+            ingredients.extend(["Jagermeister", "Rumple Minze", "Goldschlager"])
         elif "jaggerbomb" in name_lower:
-            ingredients.extend(["Jägermeister", "Red Bull"])
+            ingredients.extend(["Jagermeister", "Red Bull"])
         elif "tequila" in name_lower:
             ingredients.append("Tequila")
         elif "sex in the pool" in name_lower:
