@@ -399,9 +399,38 @@ events: []
     return frontmatter
 
 
+def get_category_icon(category_name):
+    """Get icon URL for a category."""
+    icons = {
+        "Food": "https://ct.ttmenus.com/icons/food/icon-wing.webp",
+        "Beer": "https://cdn.ttmenus.com/icons/food/icon-beer.webp",
+        "Brandy": "https://ct.ttmenus.com/icons/food/icon-rum.webp",
+        "Cocktails": "https://cdn.ttmenus.com/icons/food/icon-sigcocktails.webp",
+        "Gin": "https://ct.ttmenus.com/icons/food/icon-whiskey.webp",
+        "Pool": "https://ct.ttmenus.com/icons/utilities/cart0.svg",
+        "Rum": "https://ct.ttmenus.com/icons/food/icon-rum.webp",
+        "Scotch": "https://cdn.ttmenus.com/icons/food/icon-scotch.webp",
+        "Shots": "https://cdn.ttmenus.com/icons/food/icon-shots.webp",
+        "Soft": "https://ct.ttmenus.com/icons/food/icon-can.webp",
+        "Tequila": "https://cdn.ttmenus.com/icons/food/icon-shots.webp",
+        "Vodka": "https://cdn.ttmenus.com/icons/white/icon-glass.webp",
+        "Wine": "https://cdn.ttmenus.com/icons/food/icon-wine.webp",
+    }
+    return icons.get(category_name, "")
+
+
 def generate_category_index(category_name):
     """Generate _index.md for a category."""
-    content = f"""---
+    icon = get_category_icon(category_name)
+    if icon:
+        content = f"""---
+title: {category_name}
+weight: 10
+icon: {icon}
+---
+"""
+    else:
+        content = f"""---
 title: {category_name}
 weight: 10
 ---
@@ -431,11 +460,13 @@ def main():
         category_dir = content_dir / category.lower()
         category_dir.mkdir(exist_ok=True)
         
-        # Create _index.md for category
+        # Create/Update _index.md for category
         index_file = category_dir / "_index.md"
-        if not index_file.exists():
-            index_content = generate_category_index(category)
-            index_file.write_text(index_content)
+        index_content = generate_category_index(category)
+        index_file.write_text(index_content)
+        if index_file.exists():
+            print(f"Updated category index: {index_file}")
+        else:
             print(f"Created category index: {index_file}")
         
         # Create markdown files for each item
