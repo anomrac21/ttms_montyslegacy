@@ -4,7 +4,7 @@ weight: 10
 date: 2026-01-14T17:16:44Z
 prices:
   - size: "-"
-    price: 8
+    price: 10
     flavour: "-"
 tags: ["Tonic Water"]
 ingredients: ["Water"]

@@ -4,7 +4,7 @@ weight: 10
 date: 2026-01-14T17:16:44Z
 prices:
   - size: "-"
-    price: 65
+    price: 60
     flavour: "-"
 tags: ["Tequila Sunrises"]
 ingredients: ["Tequila", "Orange Juice", "Grenadine"]

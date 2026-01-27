@@ -4,7 +4,7 @@ weight: 10
 date: 2026-01-14T17:16:44Z
 prices:
   - size: "-"
-    price: 15
+    price: 22
     flavour: "-"
 tags: ["420 Orig"]
 ingredients: ["Barley"]
