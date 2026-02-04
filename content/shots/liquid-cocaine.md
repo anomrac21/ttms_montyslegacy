@@ -4,7 +4,7 @@ weight: 10
 date: 2026-01-14T17:16:44Z
 prices:
   - size: "-"
-    price: 45
+    price: 50
     flavour: "-"
 tags: ["Liquid Cocaine"]
 ingredients: ["Jagermeister", "Rumple Minze", "Goldschlager"]

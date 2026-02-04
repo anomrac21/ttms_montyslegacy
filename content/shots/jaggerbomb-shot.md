@@ -4,7 +4,7 @@ weight: 10
 date: 2026-01-14T17:16:44Z
 prices:
   - size: "Shot"
-    price: 50
+    price: 55
     flavour: "-"
 tags: ["Jaggerbomb"]
 ingredients: ["Jagermeister", "Red Bull"]

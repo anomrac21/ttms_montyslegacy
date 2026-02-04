@@ -7,7 +7,7 @@ prices:
     price: 500
     flavour: "-"
   - size: "Drink"
-    price: 50
+    price: 40
     flavour: "-"
 tags: ["Fireball"]
 ingredients: []
