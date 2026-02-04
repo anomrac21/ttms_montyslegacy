@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 22
     flavour: "-"
-tags: ["420 Passion"]
+tags: ["Beer", "420 Passion"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

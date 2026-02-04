@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 70
     flavour: "-"
-tags: ["Mudslide"]
+tags: ["Cocktail", "Mudslide"]
 ingredients: ["Vodka", "Kahlua", "Baileys", "Cream"]
 cookingmethods: []
 types: ["Cocktail"]

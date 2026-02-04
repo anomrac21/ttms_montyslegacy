@@ -6,7 +6,7 @@ prices:
   - size: "Shot"
     price: 55
     flavour: "-"
-tags: ["Jaggerbomb"]
+tags: ["Shot", "Jaggerbomb"]
 ingredients: ["Jagermeister", "Red Bull"]
 cookingmethods: []
 types: ["Shot"]

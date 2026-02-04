@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 20
     flavour: "-"
-tags: ["Seagrams"]
+tags: ["Beer", "Seagrams"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

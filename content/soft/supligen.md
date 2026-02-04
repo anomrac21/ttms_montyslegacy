@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 15
     flavour: "-"
-tags: ["Supligen"]
+tags: ["Soft Drink", "Supligen"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

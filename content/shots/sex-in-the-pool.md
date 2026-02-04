@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 40
     flavour: "-"
-tags: ["Sex in the Pool"]
+tags: ["Shot", "Sex in the Pool"]
 ingredients: ["Vodka", "Blue Curacao", "Pineapple Juice"]
 cookingmethods: []
 types: ["Shot"]

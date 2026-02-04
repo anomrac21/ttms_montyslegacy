@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 30
     flavour: "-"
-tags: ["Mango Chow Shot"]
+tags: ["Shot", "Mango Chow Shot"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

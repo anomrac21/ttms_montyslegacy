@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 65
     flavour: "-"
-tags: ["Sex on the Beach"]
+tags: ["Cocktail", "Sex on the Beach"]
 ingredients: ["Vodka", "Peach Schnapps", "Cranberry Juice", "Orange Juice"]
 cookingmethods: []
 types: ["Cocktail"]

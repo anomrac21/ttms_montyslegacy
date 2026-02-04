@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 25
     flavour: "-"
-tags: ["Royal Oak"]
+tags: ["Rum", "Royal Oak"]
 ingredients: []
 cookingmethods: []
 types: ["Rum"]

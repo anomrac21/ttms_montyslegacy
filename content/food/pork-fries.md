@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 70
     flavour: "-"
-tags: ["Pork & Fries", "Pork"]
+tags: ["Food", "Fries", "Pork"]
 ingredients: ["Pork", "Potatoes"]
 cookingmethods: []
 types: ["Food", "Combo"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 55
     flavour: "-"
-tags: ["Bob Marley"]
+tags: ["Shot", "Bob Marley"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

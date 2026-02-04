@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Red Bull"]
+tags: ["Soft Drink", "Red Bull"]
 ingredients: ["Energy Drink"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

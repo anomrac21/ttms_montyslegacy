@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 60
     flavour: "-"
-tags: ["Pina Colada"]
+tags: ["Cocktail", "Pina Colada"]
 ingredients: ["Rum", "Coconut Cream", "Pineapple Juice"]
 cookingmethods: []
 types: ["Cocktail"]

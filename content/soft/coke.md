@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 10
     flavour: "-"
-tags: ["Coke"]
+tags: ["Soft Drink", "Coke"]
 ingredients: ["Carbonated Water", "Sugar"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

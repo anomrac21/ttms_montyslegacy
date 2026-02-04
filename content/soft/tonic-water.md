@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 10
     flavour: "-"
-tags: ["Tonic Water"]
+tags: ["Soft Drink", "Tonic Water"]
 ingredients: ["Water"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Michelob Ultra"]
+tags: ["Beer", "Michelob Ultra"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

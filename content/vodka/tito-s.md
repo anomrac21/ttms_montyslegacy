@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 40
     flavour: "-"
-tags: ["Tito's"]
+tags: ["Vodka", "Tito's"]
 ingredients: ["Vodka"]
 cookingmethods: []
 types: ["Vodka"]

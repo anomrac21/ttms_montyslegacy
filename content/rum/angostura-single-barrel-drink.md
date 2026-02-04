@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 35
     flavour: "-"
-tags: ["Angostura Single Barrel"]
+tags: ["Rum", "Angostura Single Barrel"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

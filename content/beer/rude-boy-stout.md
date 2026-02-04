@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Rude Boy Stout"]
+tags: ["Beer", "Rude Boy Stout"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

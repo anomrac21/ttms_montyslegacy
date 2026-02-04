@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 65
     flavour: "-"
-tags: ["Daiquiri"]
+tags: ["Cocktail", "Daiquiri"]
 ingredients: ["Rum", "Lime Juice", "Simple Syrup"]
 cookingmethods: []
 types: ["Cocktail"]

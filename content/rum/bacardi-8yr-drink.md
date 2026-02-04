@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 30
     flavour: "-"
-tags: ["Bacardi 8yr"]
+tags: ["Rum", "Bacardi 8yr"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

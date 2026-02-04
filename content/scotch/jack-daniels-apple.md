@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Jack Daniels Apple"]
+tags: ["Scotch", "Jack Daniels Apple"]
 ingredients: ["Whiskey"]
 cookingmethods: []
 types: ["Scotch"]

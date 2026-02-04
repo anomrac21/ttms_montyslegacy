@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 18
     flavour: "-"
-tags: ["Coors Light"]
+tags: ["Beer", "Coors Light"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

@@ -6,7 +6,7 @@ prices:
   - size: "Bottle"
     price: 500
     flavour: "-"
-tags: ["Angostura 1919 Btl"]
+tags: ["Rum", "Angostura 1919"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

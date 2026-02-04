@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 35
     flavour: "-"
-tags: ["Silk Panty"]
+tags: ["Shot", "Silk Panty"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

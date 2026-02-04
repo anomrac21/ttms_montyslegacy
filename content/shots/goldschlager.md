@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 40
     flavour: "-"
-tags: ["Goldschlager"]
+tags: ["Shot", "Goldschlager"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

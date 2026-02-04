@@ -9,8 +9,8 @@ prices:
   - size: "-"
     price: 30
     flavour: "Shrimp"
-tags: ["Fried Wontons"]
-ingredients: ["Wonton Wrappers", "Filling"]
+tags: ["Food", "Fried Wontons"]
+ingredients: ["Wonton Wrappers", "Shrimp", "Chicken"]
 cookingmethods: ["Fried"]
 types: ["Food", "Appetizer"]
 events: []

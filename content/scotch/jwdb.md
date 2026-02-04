@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["JWDB"]
+tags: ["Scotch", "JWDB"]
 ingredients: ["Whiskey"]
 cookingmethods: []
 types: ["Scotch"]

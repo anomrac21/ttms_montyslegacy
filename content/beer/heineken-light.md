@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Heineken Light"]
+tags: ["Beer", "Heineken Light"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

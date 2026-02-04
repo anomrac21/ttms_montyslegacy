@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 45
     flavour: "-"
-tags: ["Honey Mustard Wings", "Chicken", "Wings"]
+tags: ["Food", "Honey Mustard Wings", "Chicken", "Wings"]
 ingredients: ["Chicken", "Sauce", "Spices", "Honey Mustard"]
 cookingmethods: ["Fried"]
 types: ["Food"]

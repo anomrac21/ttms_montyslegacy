@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 13
     flavour: "-"
-tags: ["Malta"]
+tags: ["Soft Drink", "Malta"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

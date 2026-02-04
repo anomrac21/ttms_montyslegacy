@@ -12,7 +12,7 @@ prices:
   - size: "Tube"
     price: 20
     flavour: "-"
-tags: ["Jose Cuervo Gold"]
+tags: ["Tequila", "Jose Cuervo Gold"]
 ingredients: ["Tequila"]
 cookingmethods: []
 types: ["Tequila"]

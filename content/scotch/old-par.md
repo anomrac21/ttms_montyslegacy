@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["Old Par"]
+tags: ["Scotch", "Old Par"]
 ingredients: []
 cookingmethods: []
 types: ["Scotch"]

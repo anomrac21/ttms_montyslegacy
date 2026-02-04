@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Quick Head"]
+tags: ["Beer", "Quick Head"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

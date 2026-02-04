@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["Jack Daniels"]
+tags: ["Scotch", "Jack Daniels"]
 ingredients: ["Whiskey"]
 cookingmethods: []
 types: ["Scotch"]

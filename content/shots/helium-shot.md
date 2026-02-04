@@ -6,7 +6,7 @@ prices:
   - size: "Shot"
     price: 60
     flavour: "-"
-tags: ["Helium"]
+tags: ["Shot", "Helium"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

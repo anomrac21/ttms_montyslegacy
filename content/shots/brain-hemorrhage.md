@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 50
     flavour: "-"
-tags: ["Brain Hemorrhage"]
+tags: ["Shot", "Brain Hemorrhage"]
 ingredients: ["Peach Schnapps", "Irish Cream", "Grenadine"]
 cookingmethods: []
 types: ["Shot"]

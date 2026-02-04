@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 40
     flavour: "-"
-tags: ["Disaronno"]
+tags: ["Brandy", "Disaronno"]
 ingredients: ["Disaronno"]
 cookingmethods: []
 types: ["Brandy"]

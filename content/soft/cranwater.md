@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 8
     flavour: "-"
-tags: ["CranWater"]
+tags: ["Soft Drink", "CranWater"]
 ingredients: ["Water"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

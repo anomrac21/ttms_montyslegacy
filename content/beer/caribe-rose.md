@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Caribe Rose"]
+tags: ["Beer", "Caribe Rose"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

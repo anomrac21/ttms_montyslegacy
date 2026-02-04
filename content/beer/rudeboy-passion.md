@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Rudeboy Passion"]
+tags: ["Beer", "Rudeboy Passion"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

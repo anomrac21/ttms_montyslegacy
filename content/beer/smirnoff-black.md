@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Smirnoff Black"]
+tags: ["Beer", "Smirnoff Black"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

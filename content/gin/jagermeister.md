@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Jagermeister"]
+tags: ["Gin", "Jagermeister"]
 ingredients: []
 cookingmethods: []
 types: ["Gin"]

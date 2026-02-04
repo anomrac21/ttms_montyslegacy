@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 20
     flavour: "-"
-tags: ["Juice Flask"]
+tags: ["Soft Drink", "Juice Flask"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

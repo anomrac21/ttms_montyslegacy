@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 12
     flavour: "-"
-tags: ["LLB"]
+tags: ["Soft Drink", "LLB"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Grey Goose"]
+tags: ["Vodka", "Grey Goose"]
 ingredients: ["Vodka"]
 cookingmethods: []
 types: ["Vodka"]

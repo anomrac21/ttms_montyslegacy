@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 25
     flavour: "-"
-tags: ["Tamboo"]
+tags: ["Rum", "Tamboo"]
 ingredients: []
 cookingmethods: []
 types: ["Rum"]

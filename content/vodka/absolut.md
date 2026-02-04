@@ -12,7 +12,7 @@ prices:
   - size: "Drink"
     price: 35
     flavour: "-"
-tags: ["Absolut"]
+tags: ["Vodka", "Absolut"]
 ingredients: ["Vodka"]
 cookingmethods: []
 types: ["Vodka"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 5
     flavour: "-"
-tags: ["Water-300ml"]
+tags: ["Soft Drink", "Water"]
 ingredients: ["Water"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

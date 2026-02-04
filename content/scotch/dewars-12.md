@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 40
     flavour: "-"
-tags: ["Dewars 12"]
+tags: ["Scotch", "Dewars 12"]
 ingredients: ["Whiskey"]
 cookingmethods: []
 types: ["Scotch"]

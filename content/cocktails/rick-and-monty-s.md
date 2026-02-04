@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 65
     flavour: "-"
-tags: ["Rick and Monty's"]
+tags: ["Cocktail", "Rick and Monty's"]
 ingredients: ["Rum", "Juices", "Syrups"]
 cookingmethods: []
 types: ["Cocktail"]

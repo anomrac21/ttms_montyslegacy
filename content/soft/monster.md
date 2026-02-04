@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 20
     flavour: "-"
-tags: ["Monster"]
+tags: ["Soft Drink", "Monster"]
 ingredients: ["Energy Drink"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

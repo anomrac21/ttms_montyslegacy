@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Corona"]
+tags: ["Beer", "Corona"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

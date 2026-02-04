@@ -12,7 +12,7 @@ prices:
   - size: "Drink"
     price: 20
     flavour: "-"
-tags: ["Campari"]
+tags: ["Rum", "Campari"]
 ingredients: []
 cookingmethods: []
 types: ["Rum"]

@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 40
     flavour: "-"
-tags: ["Angostura 1919 Drink"]
+tags: ["Rum", "Angostura 1919"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

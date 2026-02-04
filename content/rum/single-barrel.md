@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 25
     flavour: "-"
-tags: ["Single Barrel"]
+tags: ["Rum", "Single Barrel"]
 ingredients: []
 cookingmethods: []
 types: ["Rum"]

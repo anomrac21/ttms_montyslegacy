@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Barefoot Moscato"]
+tags: ["Wine", "Barefoot Moscato"]
 ingredients: ["Moscato Grapes"]
 cookingmethods: []
 types: ["Wine"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 60
     flavour: "-"
-tags: ["Tequila Sunrises"]
+tags: ["Cocktail", "Tequila Sunrises"]
 ingredients: ["Tequila", "Orange Juice", "Grenadine"]
 cookingmethods: []
 types: ["Cocktail"]

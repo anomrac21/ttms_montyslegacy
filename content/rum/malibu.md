@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 25
     flavour: "-"
-tags: ["Malibu"]
+tags: ["Rum", "Malibu"]
 ingredients: []
 cookingmethods: []
 types: ["Rum"]

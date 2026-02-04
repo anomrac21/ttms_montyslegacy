@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Barefoot Rose"]
+tags: ["Wine", "Barefoot Rose"]
 ingredients: ["Red Grapes"]
 cookingmethods: []
 types: ["Wine"]

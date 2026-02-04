@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Orchard 1L"]
+tags: ["Soft Drink", "Orchard Juice"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

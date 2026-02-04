@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Guiness"]
+tags: ["Beer", "Guiness"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

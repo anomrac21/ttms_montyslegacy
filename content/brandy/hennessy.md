@@ -12,7 +12,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Hennessy"]
+tags: ["Brandy", "Hennessy"]
 ingredients: ["Cognac"]
 cookingmethods: []
 types: ["Brandy"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 45
     flavour: "-"
-tags: ["The Dirty Monty's"]
+tags: ["Shot", "The Dirty Monty's"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

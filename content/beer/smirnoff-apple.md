@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Smirnoff Apple"]
+tags: ["Beer", "Smirnoff Apple"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["Tanqueray"]
+tags: ["Gin", "Tanqueray"]
 ingredients: ["Gin"]
 cookingmethods: []
 types: ["Gin"]

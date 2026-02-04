@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Pool per Hour"]
+tags: ["Pool", "Pool per Hour"]
 ingredients: []
 cookingmethods: []
 types: ["Game"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 50
     flavour: "-"
-tags: ["Liquid Cocaine"]
+tags: ["Shot", "Liquid Cocaine"]
 ingredients: ["Jagermeister", "Rumple Minze", "Goldschlager"]
 cookingmethods: []
 types: ["Shot"]

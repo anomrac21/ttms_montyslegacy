@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 50
     flavour: "-"
-tags: ["Margaritaville Silver"]
+tags: ["Tequila", "Margaritaville Silver"]
 ingredients: []
 cookingmethods: []
 types: ["Tequila"]

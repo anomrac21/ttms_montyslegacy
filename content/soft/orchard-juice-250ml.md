@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 9
     flavour: "-"
-tags: ["Orchard Juice 250ML"]
+tags: ["Soft Drink", "Orchard Juice"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 35
     flavour: "-"
-tags: ["Angostura 7yr"]
+tags: ["Rum", "Angostura 7yr"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

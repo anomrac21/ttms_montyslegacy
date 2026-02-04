@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["Baileys"]
+tags: ["Rum", "Baileys"]
 ingredients: []
 cookingmethods: []
 types: ["Rum"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 50
     flavour: "-"
-tags: ["ANGOSTURA 1787"]
+tags: ["Rum", "Angostura 1787"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

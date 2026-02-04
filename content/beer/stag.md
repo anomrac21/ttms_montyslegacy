@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 16
     flavour: "-"
-tags: ["Stag"]
+tags: ["Beer", "Stag"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

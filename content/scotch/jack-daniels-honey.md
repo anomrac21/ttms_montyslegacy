@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Jack Daniels Honey"]
+tags: ["Scotch", "Jack Daniels Honey"]
 ingredients: ["Whiskey"]
 cookingmethods: []
 types: ["Scotch"]

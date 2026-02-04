@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 40
     flavour: "-"
-tags: ["Gordon's Dry"]
+tags: ["Gin", "Gordon's Dry"]
 ingredients: ["Gin"]
 cookingmethods: []
 types: ["Gin"]

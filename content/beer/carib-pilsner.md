@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 16
     flavour: "-"
-tags: ["Carib Pilsner"]
+tags: ["Beer", "Carib Pilsner"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

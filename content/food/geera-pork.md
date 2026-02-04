@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 60
     flavour: "-"
-tags: ["Geera Pork", "Pork"]
+tags: ["Food", "Geera Pork", "Pork"]
 ingredients: ["Pork", "Geera Seasoning"]
 cookingmethods: ["Fried"]
 types: ["Food", "Appetizer"]

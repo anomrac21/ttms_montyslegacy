@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 65
     flavour: "-"
-tags: ["Pain Killer"]
+tags: ["Cocktail", "Pain Killer"]
 ingredients: ["Rum", "Coconut Cream", "Pineapple Juice", "Orange Juice"]
 cookingmethods: []
 types: ["Cocktail"]

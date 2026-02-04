@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 20
     flavour: "-"
-tags: ["Royal X-Tra"]
+tags: ["Beer", "Royal X-Tra"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

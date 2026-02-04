@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 70
     flavour: "-"
-tags: ["Long Island Iced Tea"]
+tags: ["Cocktail", "Long Island Iced Tea"]
 ingredients: ["Vodka", "Tequila", "Rum", "Gin", "Triple Sec", "Lemon Juice", "Cola"]
 cookingmethods: []
 types: ["Cocktail"]

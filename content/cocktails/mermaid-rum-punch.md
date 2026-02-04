@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 65
     flavour: "-"
-tags: ["Mermaid Rum Punch"]
+tags: ["Cocktail", "Mermaid Rum Punch"]
 ingredients: ["Rum", "Juice", "Syrup"]
 cookingmethods: []
 types: ["Cocktail"]

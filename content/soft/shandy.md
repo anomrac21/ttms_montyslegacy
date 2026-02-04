@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 13
     flavour: "-"
-tags: ["Shandy"]
+tags: ["Soft Drink", "Shandy"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

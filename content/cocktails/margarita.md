@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 60
     flavour: "-"
-tags: ["Margarita"]
+tags: ["Cocktail", "Margarita"]
 ingredients: ["Tequila", "Triple Sec", "Lime Juice"]
 cookingmethods: []
 types: ["Cocktail"]

@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Patron Silver"]
+tags: ["Tequila", "Patron Silver"]
 ingredients: ["Tequila"]
 cookingmethods: []
 types: ["Tequila"]

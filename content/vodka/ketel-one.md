@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Ketel One Vodka"]
+tags: ["Vodka", "Ketel One"]
 ingredients: ["Vodka"]
 cookingmethods: []
 types: ["Vodka"]

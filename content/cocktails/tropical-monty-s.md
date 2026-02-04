@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 65
     flavour: "-"
-tags: ["Tropical Monty's"]
+tags: ["Cocktail", "Tropical Monty's"]
 ingredients: ["Rum", "Juices", "Syrups"]
 cookingmethods: []
 types: ["Cocktail"]

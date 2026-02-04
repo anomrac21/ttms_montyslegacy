@@ -15,7 +15,7 @@ prices:
   - size: "Nip"
     price: 80
     flavour: "-"
-tags: ["White Oak"]
+tags: ["Rum", "White Oak"]
 ingredients: []
 cookingmethods: []
 types: ["Rum"]

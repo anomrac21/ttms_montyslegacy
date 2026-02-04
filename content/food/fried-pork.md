@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 55
     flavour: "-"
-tags: ["Fried Pork", "Pork"]
+tags: ["Food", "Fried Pork", "Pork"]
 ingredients: ["Pork"]
 cookingmethods: ["Fried"]
 types: ["Food", "Appetizer"]

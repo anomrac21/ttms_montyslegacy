@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Heiniken 0"]
+tags: ["Beer", "Heiniken 0"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

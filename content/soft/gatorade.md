@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 15
     flavour: "-"
-tags: ["Gatorade"]
+tags: ["Soft Drink", "Gatorade"]
 ingredients: ["Sports Drink"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

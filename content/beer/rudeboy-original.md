@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Rudeboy Original"]
+tags: ["Beer", "Rudeboy Original"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

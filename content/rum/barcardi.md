@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 25
     flavour: "-"
-tags: ["Barcardi"]
+tags: ["Rum", "Barcardi"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

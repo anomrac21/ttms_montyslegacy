@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Pepper Fries"]
+tags: ["Food", "Pepper Fries"]
 ingredients: ["Potatoes", "Pepper Seasoning"]
 cookingmethods: ["Fried"]
 types: ["Food", "Side"]

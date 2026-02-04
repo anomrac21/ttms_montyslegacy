@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 20
     flavour: "-"
-tags: ["Village Puncheon"]
+tags: ["Rum", "Village Puncheon"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

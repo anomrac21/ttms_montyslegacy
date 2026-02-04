@@ -6,7 +6,7 @@ prices:
   - size: "Shot"
     price: 30
     flavour: "-"
-tags: ["Tequila Shots"]
+tags: ["Shot", "Tequila Shots"]
 ingredients: ["Tequila"]
 cookingmethods: []
 types: ["Shot"]

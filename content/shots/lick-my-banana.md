@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 40
     flavour: "-"
-tags: ["Lick my Banana"]
+tags: ["Shot", "Lick my Banana"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

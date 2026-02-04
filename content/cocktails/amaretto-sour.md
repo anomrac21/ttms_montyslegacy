@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 55
     flavour: "-"
-tags: ["Amaretto Sour"]
+tags: ["Cocktail", "Amaretto Sour"]
 ingredients: ["Amaretto", "Lemon Juice", "Simple Syrup"]
 cookingmethods: []
 types: ["Cocktail"]

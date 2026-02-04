@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 45
     flavour: "-"
-tags: ["Blowjob"]
+tags: ["Shot", "Blowjob"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

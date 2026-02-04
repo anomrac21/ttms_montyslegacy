@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Modello"]
+tags: ["Beer", "Modello"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

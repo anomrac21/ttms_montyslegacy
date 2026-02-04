@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 60
     flavour: "-"
-tags: ["Chicken Tenders", "Chicken"]
+tags: ["Food", "Chicken Tenders", "Chicken"]
 ingredients: ["Chicken"]
 cookingmethods: ["Fried"]
 types: ["Food", "Appetizer"]

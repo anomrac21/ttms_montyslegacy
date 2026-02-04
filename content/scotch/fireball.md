@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 40
     flavour: "-"
-tags: ["Fireball"]
+tags: ["Scotch", "Fireball"]
 ingredients: []
 cookingmethods: []
 types: ["Scotch"]

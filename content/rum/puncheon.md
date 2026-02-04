@@ -18,7 +18,7 @@ prices:
   - size: "Shot"
     price: 40
     flavour: "-"
-tags: ["Puncheon"]
+tags: ["Rum", "Puncheon"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

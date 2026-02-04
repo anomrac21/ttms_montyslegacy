@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 20
     flavour: "-"
-tags: ["Black Label"]
+tags: ["Rum", "Black Label"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

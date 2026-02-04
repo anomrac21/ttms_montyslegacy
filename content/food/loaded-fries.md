@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 35
     flavour: "-"
-tags: ["Loaded Fries"]
+tags: ["Food", "Loaded Fries"]
 ingredients: ["Potatoes", "Cheese", "Toppings"]
 cookingmethods: ["Fried"]
 types: ["Food", "Side"]

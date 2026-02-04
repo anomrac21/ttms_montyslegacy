@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Caribe Perseco"]
+tags: ["Beer", "Caribe Perseco"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

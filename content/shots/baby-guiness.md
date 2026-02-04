@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 40
     flavour: "-"
-tags: ["Baby Guiness"]
+tags: ["Shot", "Baby Guiness"]
 ingredients: []
 cookingmethods: []
 types: ["Shot"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 16
     flavour: "-"
-tags: ["Carib"]
+tags: ["Beer", "Carib"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

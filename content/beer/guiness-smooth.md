@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Guiness Smooth"]
+tags: ["Beer", "Guiness Smooth"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

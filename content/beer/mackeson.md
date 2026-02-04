@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Mackeson"]
+tags: ["Beer", "Mackeson"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

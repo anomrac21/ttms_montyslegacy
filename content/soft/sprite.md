@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 10
     flavour: "-"
-tags: ["Sprite"]
+tags: ["Soft Drink", "Sprite"]
 ingredients: ["Carbonated Water", "Lemon-Lime Flavor"]
 cookingmethods: []
 types: ["Non-Alcoholic"]

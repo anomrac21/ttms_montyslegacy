@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 40
     flavour: "-"
-tags: ["Vanguard Gin"]
+tags: ["Gin", "Vanguard"]
 ingredients: []
 cookingmethods: []
 types: ["Gin"]

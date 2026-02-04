@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 60
     flavour: "-"
-tags: ["Martini"]
+tags: ["Cocktail", "Martini"]
 ingredients: ["Gin", "Vermouth"]
 cookingmethods: []
 types: ["Cocktail"]

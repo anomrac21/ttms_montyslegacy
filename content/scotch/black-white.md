@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 30
     flavour: "-"
-tags: ["Black & White"]
+tags: ["Scotch", "Black & White"]
 ingredients: []
 cookingmethods: []
 types: ["Scotch"]

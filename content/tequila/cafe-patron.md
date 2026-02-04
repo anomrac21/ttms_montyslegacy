@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 50
     flavour: "-"
-tags: ["Cafe Patron"]
+tags: ["Tequila", "Cafe Patron"]
 ingredients: ["Tequila"]
 cookingmethods: []
 types: ["Tequila"]

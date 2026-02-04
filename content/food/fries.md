@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 20
     flavour: "-"
-tags: ["Fries"]
+tags: ["Food", "Fries"]
 ingredients: ["Potatoes"]
 cookingmethods: ["Fried"]
 types: ["Food", "Side"]

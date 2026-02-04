@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 35
     flavour: "-"
-tags: ["Hong Kong Wanton", "Chicken or Shrimp"]
+tags: ["Food", "Hong Kong Wanton", "Chicken or Shrimp"]
 ingredients: ["Wonton Wrapper", "Chicken or Shrimp"]
 cookingmethods: ["Fried"]
 types: ["Food"]

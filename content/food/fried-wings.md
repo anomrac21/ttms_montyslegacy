@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 40
     flavour: "-"
-tags: ["Fried Wings", "Chicken", "Wings"]
+tags: ["Food", "Fried Wings", "Chicken", "Wings"]
 ingredients: ["Chicken", "Sauce", "Spices"]
 cookingmethods: ["Fried"]
 types: ["Food"]

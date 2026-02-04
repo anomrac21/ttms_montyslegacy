@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["Tequila Rose"]
+tags: ["Tequila", "Tequila Rose"]
 ingredients: []
 cookingmethods: []
 types: ["Tequila"]

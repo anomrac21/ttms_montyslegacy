@@ -9,7 +9,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["JWB"]
+tags: ["Scotch", "JWB"]
 ingredients: ["Whiskey"]
 cookingmethods: []
 types: ["Scotch"]

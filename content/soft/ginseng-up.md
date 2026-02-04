@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 13
     flavour: "-"
-tags: ["Ginseng Up"]
+tags: ["Soft Drink", "Ginseng Up"]
 ingredients: []
 cookingmethods: []
 types: ["Non-Alcoholic"]

@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 22
     flavour: "-"
-tags: ["420 Orig"]
+tags: ["Beer", "420 Orig"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

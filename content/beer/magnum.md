@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 25
     flavour: "-"
-tags: ["Magnum"]
+tags: ["Beer", "Magnum"]
 ingredients: ["Barley"]
 cookingmethods: []
 types: ["Beer"]

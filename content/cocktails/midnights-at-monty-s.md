@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 65
     flavour: "-"
-tags: ["Midnights at Monty's"]
+tags: ["Cocktail", "Midnights at Monty's"]
 ingredients: ["Rum", "Juices", "Syrups"]
 cookingmethods: []
 types: ["Cocktail"]

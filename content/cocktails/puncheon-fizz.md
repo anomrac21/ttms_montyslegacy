@@ -6,7 +6,7 @@ prices:
   - size: "-"
     price: 55
     flavour: "-"
-tags: ["Puncheon Fizz"]
+tags: ["Cocktail", "Puncheon Fizz"]
 ingredients: ["Rum", "Juice", "Syrup"]
 cookingmethods: []
 types: ["Cocktail"]

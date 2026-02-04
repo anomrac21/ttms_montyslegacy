@@ -9,7 +9,7 @@ prices:
   - size: "-"
     price: 35
     flavour: "Shrimp"
-tags: ["Hong Kong Wontons"]
+tags: ["Food", "Hong Kong Wontons"]
 ingredients: ["Wonton Wrappers", "Filling"]
 cookingmethods: ["Fried"]
 types: ["Food", "Appetizer"]

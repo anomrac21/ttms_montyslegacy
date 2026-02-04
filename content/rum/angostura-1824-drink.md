@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["ANGOSTURA 1824 DRINK"]
+tags: ["Rum", "Angostura 1824"]
 ingredients: ["Rum"]
 cookingmethods: []
 types: ["Rum"]

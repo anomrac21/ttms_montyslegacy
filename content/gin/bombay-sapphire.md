@@ -6,7 +6,7 @@ prices:
   - size: "Drink"
     price: 45
     flavour: "-"
-tags: ["Bombay Sapphire Gin"]
+tags: ["Gin", "Bombay Sapphire"]
 ingredients: ["Gin"]
 cookingmethods: []
 types: ["Gin"]
