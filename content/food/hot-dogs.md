@@ -12,8 +12,6 @@ cookingmethods: []
 types: ["Food"]
 events: []
 additions:
-  - name: "Bacon"
-    price: 6
   - name: "Minced Beef Topping"
     price: 5
   - name: "Crushed Nacho Chips Topping"

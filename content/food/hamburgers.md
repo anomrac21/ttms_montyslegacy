@@ -1,5 +1,5 @@
 ---
-title: Hamburgers (4Oz)
+title: Hamburgers (4 oz)
 weight: 10
 date: 2026-01-14T17:16:44Z
 prices:
@@ -14,15 +14,11 @@ events: []
 additions:
   - name: "Bacon"
     price: 6
-  - name: "Minced Beef Topping"
-    price: 5
-  - name: "Crushed Nacho Chips Topping"
-    price: 5
   - name: "Pineapple"
     price: 5
   - name: "Mushrooms"
     price: 5
-  - name: "Additional 4 Oz Patty"
+  - name: "Additional 4 oz Patty"
     price: 15
   - name: "Fried Egg"
     price: 6
