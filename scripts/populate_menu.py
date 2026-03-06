@@ -34,7 +34,7 @@ MENU_DATA = [
     {"name": "Puncheon Fizz", "category": "Cocktails", "department": "Bar", "price": 65.00},
     {"name": "Amaretto Sour", "category": "Cocktails", "department": "Bar", "price": 65.00},
     {"name": "Daiquiri", "category": "Cocktails", "department": "Bar", "price": 65.00},
-    {"name": "Long Island Iced Tea", "category": "Cocktails", "department": "Bar", "price": 65.00},
+    {"name": "Long Island Iced Tea", "category": "Cocktails", "department": "Bar", "price": 80.00},
     {"name": "Margarita", "category": "Cocktails", "department": "Bar", "price": 65.00},
     {"name": "Martini", "category": "Cocktails", "department": "Bar", "price": 65.00},
     {"name": "Midnights at Monty's", "category": "Cocktails", "department": "Bar", "price": 65.00},
