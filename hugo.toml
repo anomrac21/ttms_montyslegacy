@@ -1,93 +1,109 @@
-baseURL = 'https://montyslegacy.ttmenus.com/'
-languageCode = 'en-tt'
-title = "Monty's Legacy"
 theme = '_menus_ttms'
+languageCode = 'en-tt'
 
-[params]
-  authServiceUrl = "https://auth.ttmenus.com"
-  contentServiceUrl = "https://content.ttmenus.com"
-  adsServiceUrl = "https://ads.ttmenus.com"
-  notifyServiceUrl = "https://notify.ttmenus.com"
+# Mount theme's content (dashboard, locations, api, etc.); keep project content (defining mounts replaces default for that target)
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "themes/_menus_ttms/content"
+    target = "content"
+title = "Monty's Legacy"
+baseURL = 'https://montyslegacy.ttmenus.com/'
 
-# Auth Service Configuration
-[params.auth]
-  enabled = true
-  apiUrl = "https://auth.ttmenus.com/api/v1"
-
-# Content Service Configuration (for Update UI)
-[params.content]
-  enabled = true
-  apiUrl = "https://content.ttmenus.com/api"
-  clientId = "ttms_montyslegacy"
-
-# Ads Service Configuration
-[params.ads]
-  enabled = true
-  apiUrl = "https://ads.ttmenus.com/api/v1"
-  clientId = "ttms_montyslegacy"
-
-# Notification Service Configuration
-[params.notifications]
-  enabled = true
-  apiUrl = "https://notify.ttmenus.com/api/v1"
-  websocketUrl = "wss://notify.ttmenus.com/api/v1/ws/connect"
-  serviceUrl = "https://notify.ttmenus.com"
-
-[params.services]
-  analyticsid = 0
-  notifications = true
-
-[params.features]
-  payments = false
-  delivery = false
-  notifications = true
-
-[params.orderingsystem]
-  vat = 0
-  servicecharge = 0
-  hastables = true
-  usephonecall = false
-  whatsapp = 18682566689
-  phone = 18682566689
-  
-# Social profiles
-[params.social]
-  facebook = ""
-  instagram = ""
-  tiktok = ""
-  youtube = ""
-  email = "montys.legacy.1997@gmail.com"
-  phone = 18682566689
-  
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.goldmark.parser]
+
+[markup.goldmark]
+
+[markup.goldmark.parser]
       attribute = true
+
+[markup.goldmark.renderer]
+      unsafe = true
+
+[outputFormats]
+
+[outputFormats.menuitemsJSON]
+    mediaType = "application/json"
+    baseName = "menu-items"
+    isPlainText = true
+    notAlternative = true
 
 [outputs]
   home = ["HTML", "JSON"]
   section = ["HTML", "JSON"]
   page = ["HTML", "JSON"]
 
-[outputFormats]
-  [outputFormats.menuitemsJSON]
-    mediaType = "application/json"
-    baseName = "menu-items"
-    isPlainText = true
-    notAlternative = true
+[params]
+  authServiceUrl = "https://auth.ttmenus.com"
+  adsServiceUrl = "https://ads.ttmenus.com"
+  notifyServiceUrl = "https://notify.ttmenus.com"
+
+[params.ads]
+    clientId = "ttms_montyslegacy"
+    enabled = true
+    apiUrl = "https://ads.ttmenus.com/api/v1"
+
+[params.auth]
+    enabled = true
+    apiUrl = "https://auth.ttmenus.com/api/v1"
+
+[params.contentManagement]
+    enabled = true
+    apiUrl = "https://content.ttmenus.com/api"
+    serviceUrl = "https://content.ttmenus.com"
+    clientId = "ttms_montyslegacy"
+    # For local development, use:
+    # apiUrl = "http://localhost:8084/api"
+    # serviceUrl = "http://localhost:8084"
+
+# Notification Service Configuration
+[params.notifications]
+    enabled = true
+    apiUrl = "https://notify.ttmenus.com/api/v1"
+    websocketUrl = "wss://notify.ttmenus.com/api/v1/ws/connect"
+    serviceUrl = "https://notify.ttmenus.com"
+
+[params.features]
+    payments = false
+    delivery = false
+    notifications = true
+
+[params.orderingsystem]
+    # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
+    enabled = false
+    orderingDisabledMessage = "Ordering is not available for this menu at this time."
+    vat = 0
+    servicecharge = 0
+    hastables = true
+    usephonecall = false
+    whatsapp = 18682566689
+    phone = 18682566689
+
+[params.services]
+    analyticsid = 0
+    notifications = true
+
+[params.social]
+    youtube = ""
+    email = "montys.legacy.1997@gmail.com"
+    phone = 18682566689
+    facebook = ""
+    instagram = ""
+    tiktok = ""
+
+[privacy]
+
+[privacy.instagram]
+    simple = false
+    disable = false
 
 [taxonomies]
+  ingredient = "ingredients"
+  cookingmethod = "cookingmethods"
   tag = "tags"
   category = "categories"
   subcategory = "subcategories"
   type = "types"
   event = "events"
-  ingredient ="ingredients"
-  cookingmethod ="cookingmethods"
-
-[privacy]
-  [privacy.instagram]
-    disable = false
-    simple = false
