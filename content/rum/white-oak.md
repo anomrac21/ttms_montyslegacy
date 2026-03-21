@@ -1,23 +1,26 @@
 ---
 title: White Oak
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "1/2 Bottle"
-    price: 150
-    flavour: "-"
-  - size: "Bottle"
-    price: 280
-    flavour: "-"
-  - size: "Drink"
-    price: 20
-    flavour: "-"
-  - size: "Nip"
-    price: 80
-    flavour: "-"
-tags: ["Rum", "White Oak"]
+- variable1: 1/2 Bottle
+  variable2: '-'
+  price: 150
+- variable1: Bottle
+  variable2: '-'
+  price: 280
+- variable1: Drink
+  variable2: '-'
+  price: 20
+- variable1: Nip
+  variable2: '-'
+  price: 80
+tags:
+- Rum
+- White Oak
 ingredients: []
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---

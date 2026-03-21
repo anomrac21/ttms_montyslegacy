@@ -1,14 +1,17 @@
 ---
 title: Supligen
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "-"
-    price: 15
-    flavour: "-"
-tags: ["Soft Drink", "Supligen"]
+- variable1: '-'
+  variable2: '-'
+  price: 15
+tags:
+- Soft Drink
+- Supligen
 ingredients: []
 cookingmethods: []
-types: ["Non-Alcoholic"]
+types:
+- Non-Alcoholic
 events: []
 ---

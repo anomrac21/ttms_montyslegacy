@@ -1,15 +1,20 @@
 ---
 title: Martini
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "-"
-    price: 60
-    flavour: "-"
-tags: ["Cocktail", "Martini"]
-ingredients: ["Gin", "Vermouth"]
+- variable1: '-'
+  variable2: '-'
+  price: 60
+tags:
+- Cocktail
+- Martini
+ingredients:
+- Gin
+- Vermouth
 cookingmethods: []
-types: ["Cocktail"]
+types:
+- Cocktail
 events: []
 ---
 

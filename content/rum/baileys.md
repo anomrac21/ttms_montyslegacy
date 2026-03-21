@@ -1,17 +1,20 @@
 ---
 title: Baileys
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 600
-    flavour: "-"
-  - size: "Drink"
-    price: 45
-    flavour: "-"
-tags: ["Rum", "Baileys"]
+- variable1: Bottle
+  variable2: '-'
+  price: 600
+- variable1: Drink
+  variable2: '-'
+  price: 45
+tags:
+- Rum
+- Baileys
 ingredients: []
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---

@@ -1,20 +1,24 @@
 ---
 title: Hennessy
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "1/2 Bottle"
-    price: 400
-    flavour: "-"
-  - size: "Bottle"
-    price: 750
-    flavour: "-"
-  - size: "Drink"
-    price: 50
-    flavour: "-"
-tags: ["Brandy", "Hennessy"]
-ingredients: ["Cognac"]
+- variable1: 1/2 Bottle
+  variable2: '-'
+  price: 400
+- variable1: Bottle
+  variable2: '-'
+  price: 750
+- variable1: Drink
+  variable2: '-'
+  price: 50
+tags:
+- Brandy
+- Hennessy
+ingredients:
+- Cognac
 cookingmethods: []
-types: ["Brandy"]
+types:
+- Brandy
 events: []
 ---

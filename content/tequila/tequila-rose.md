@@ -1,17 +1,20 @@
 ---
 title: Tequila Rose
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 550
-    flavour: "-"
-  - size: "Drink"
-    price: 45
-    flavour: "-"
-tags: ["Tequila", "Tequila Rose"]
+- variable1: Bottle
+  variable2: '-'
+  price: 550
+- variable1: Drink
+  variable2: '-'
+  price: 45
+tags:
+- Tequila
+- Tequila Rose
 ingredients: []
 cookingmethods: []
-types: ["Tequila"]
+types:
+- Tequila
 events: []
 ---

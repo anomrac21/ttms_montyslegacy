@@ -1,17 +1,20 @@
 ---
 title: Fireball
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 500
-    flavour: "-"
-  - size: "Drink"
-    price: 40
-    flavour: "-"
-tags: ["Scotch", "Fireball"]
+- variable1: Bottle
+  variable2: '-'
+  price: 500
+- variable1: Drink
+  variable2: '-'
+  price: 40
+tags:
+- Scotch
+- Fireball
 ingredients: []
 cookingmethods: []
-types: ["Scotch"]
+types:
+- Scotch
 events: []
 ---

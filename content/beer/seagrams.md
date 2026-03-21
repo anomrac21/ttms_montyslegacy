@@ -1,14 +1,18 @@
 ---
 title: Seagrams
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "-"
-    price: 20
-    flavour: "-"
-tags: ["Beer", "Seagrams"]
-ingredients: ["Barley"]
+- variable1: '-'
+  variable2: '-'
+  price: 20
+tags:
+- Beer
+- Seagrams
+ingredients:
+- Barley
 cookingmethods: []
-types: ["Beer"]
+types:
+- Beer
 events: []
 ---

@@ -1,17 +1,20 @@
 ---
 title: Royal Oak
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 320
-    flavour: "-"
-  - size: "Drink"
-    price: 25
-    flavour: "-"
-tags: ["Rum", "Royal Oak"]
+- variable1: Bottle
+  variable2: '-'
+  price: 320
+- variable1: Drink
+  variable2: '-'
+  price: 25
+tags:
+- Rum
+- Royal Oak
 ingredients: []
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---

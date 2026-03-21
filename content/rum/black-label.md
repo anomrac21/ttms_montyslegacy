@@ -1,17 +1,21 @@
 ---
 title: Black Label
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 260
-    flavour: "-"
-  - size: "Drink"
-    price: 20
-    flavour: "-"
-tags: ["Rum", "Black Label"]
-ingredients: ["Rum"]
+- variable1: Bottle
+  variable2: '-'
+  price: 260
+- variable1: Drink
+  variable2: '-'
+  price: 20
+tags:
+- Rum
+- Black Label
+ingredients:
+- Rum
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---

@@ -1,17 +1,21 @@
 ---
 title: Grey Goose
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 700
-    flavour: "-"
-  - size: "Drink"
-    price: 50
-    flavour: "-"
-tags: ["Vodka", "Grey Goose"]
-ingredients: ["Vodka"]
+- variable1: Bottle
+  variable2: '-'
+  price: 700
+- variable1: Drink
+  variable2: '-'
+  price: 50
+tags:
+- Vodka
+- Grey Goose
+ingredients:
+- Vodka
 cookingmethods: []
-types: ["Vodka"]
+types:
+- Vodka
 events: []
 ---

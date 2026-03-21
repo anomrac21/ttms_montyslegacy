@@ -1,17 +1,21 @@
 ---
 title: Barefoot Moscato
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 250
-    flavour: "-"
-  - size: "Drink"
-    price: 50
-    flavour: "-"
-tags: ["Wine", "Barefoot Moscato"]
-ingredients: ["Moscato Grapes"]
+- variable1: Bottle
+  variable2: '-'
+  price: 250
+- variable1: Drink
+  variable2: '-'
+  price: 50
+tags:
+- Wine
+- Barefoot Moscato
+ingredients:
+- Moscato Grapes
 cookingmethods: []
-types: ["Wine"]
+types:
+- Wine
 events: []
 ---

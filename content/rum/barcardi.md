@@ -1,17 +1,21 @@
 ---
 title: Barcardi
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 350
-    flavour: "-"
-  - size: "Drink"
-    price: 25
-    flavour: "-"
-tags: ["Rum", "Barcardi"]
-ingredients: ["Rum"]
+- variable1: Bottle
+  variable2: '-'
+  price: 350
+- variable1: Drink
+  variable2: '-'
+  price: 25
+tags:
+- Rum
+- Barcardi
+ingredients:
+- Rum
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---

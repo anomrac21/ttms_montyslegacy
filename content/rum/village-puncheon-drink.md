@@ -1,15 +1,19 @@
 ---
 title: Village Puncheon
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Drink"
-    price: 20
-    flavour: "-"
-tags: ["Rum", "Village Puncheon"]
-ingredients: ["Rum"]
+- variable1: Drink
+  variable2: '-'
+  price: 20
+tags:
+- Rum
+- Village Puncheon
+ingredients:
+- Rum
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---
 

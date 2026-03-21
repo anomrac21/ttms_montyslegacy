@@ -1,18 +1,25 @@
 ---
 title: Hong Kong Wontons
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "-"
-    price: 35
-    flavour: "Chicken"
-  - size: "-"
-    price: 35
-    flavour: "Shrimp"
-tags: ["Food", "Hong Kong Wontons"]
-ingredients: ["Wonton Wrappers", "Filling"]
-cookingmethods: ["Fried"]
-types: ["Food", "Appetizer"]
+- variable1: '-'
+  variable2: Chicken
+  price: 35
+- variable1: '-'
+  variable2: Shrimp
+  price: 35
+tags:
+- Food
+- Hong Kong Wontons
+ingredients:
+- Wonton Wrappers
+- Filling
+cookingmethods:
+- Fried
+types:
+- Food
+- Appetizer
 events: []
 ---
 

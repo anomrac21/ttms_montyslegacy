@@ -1,15 +1,18 @@
 ---
 title: Lick my Banana
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "-"
-    price: 40
-    flavour: "-"
-tags: ["Shot", "Lick my Banana"]
+- variable1: '-'
+  variable2: '-'
+  price: 40
+tags:
+- Shot
+- Lick my Banana
 ingredients: []
 cookingmethods: []
-types: ["Shot"]
+types:
+- Shot
 events: []
 ---
 

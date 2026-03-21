@@ -1,15 +1,19 @@
 ---
 title: Bacardi 8yr
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Drink"
-    price: 30
-    flavour: "-"
-tags: ["Rum", "Bacardi 8yr"]
-ingredients: ["Rum"]
+- variable1: Drink
+  variable2: '-'
+  price: 30
+tags:
+- Rum
+- Bacardi 8yr
+ingredients:
+- Rum
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---
 

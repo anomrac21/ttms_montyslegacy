@@ -1,14 +1,18 @@
 ---
 title: JWDB
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Drink"
-    price: 50
-    flavour: "-"
-tags: ["Scotch", "JWDB"]
-ingredients: ["Whiskey"]
+- variable1: Drink
+  variable2: '-'
+  price: 50
+tags:
+- Scotch
+- JWDB
+ingredients:
+- Whiskey
 cookingmethods: []
-types: ["Scotch"]
+types:
+- Scotch
 events: []
 ---

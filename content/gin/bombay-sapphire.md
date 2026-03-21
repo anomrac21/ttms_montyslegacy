@@ -1,14 +1,18 @@
 ---
 title: Bombay Sapphire Gin
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Drink"
-    price: 45
-    flavour: "-"
-tags: ["Gin", "Bombay Sapphire"]
-ingredients: ["Gin"]
+- variable1: Drink
+  variable2: '-'
+  price: 45
+tags:
+- Gin
+- Bombay Sapphire
+ingredients:
+- Gin
 cookingmethods: []
-types: ["Gin"]
+types:
+- Gin
 events: []
 ---

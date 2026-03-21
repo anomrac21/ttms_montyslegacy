@@ -51,14 +51,20 @@ baseURL = 'https://montyslegacy.ttmenus.com/'
 
 [params.contentManagement]
     enabled = true
-    apiUrl = "https://content.ttmenus.com/api"
-    serviceUrl = "https://content.ttmenus.com"
+    apiUrl = "https://cms.ttmenus.com/api"
+    serviceUrl = "https://cms.ttmenus.com"
     clientId = "ttms_montyslegacy"
-    # For local development, use:
-    # apiUrl = "http://localhost:8084/api"
-    # serviceUrl = "http://localhost:8084"
 
-# Notification Service Configuration
+# Update UI dashboard (theme reads [params.content] for editor URLs)
+[params.content]
+    apiUrl = "https://cms.ttmenus.com/api"
+    clientId = "ttms_montyslegacy"
+
+# Menu Image Service - user-submitted images with admin approval
+[params.menuImageService]
+    enabled = true
+    apiUrl = "https://menu-images.ttmenus.com/api/v1"
+
 [params.notifications]
     enabled = true
     apiUrl = "https://notify.ttmenus.com/api/v1"
@@ -71,7 +77,6 @@ baseURL = 'https://montyslegacy.ttmenus.com/'
     notifications = true
 
 [params.orderingsystem]
-    # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
     enabled = false
     orderingDisabledMessage = "Ordering is not available for this menu at this time."
     vat = 0
@@ -81,7 +86,11 @@ baseURL = 'https://montyslegacy.ttmenus.com/'
     whatsapp = 18682566689
     phone = 18682566689
 
+[params.orderingmenu]
+  sidesname = "Sides"
+
 [params.services]
+    onesignalid = ""
     analyticsid = 0
     notifications = true
 

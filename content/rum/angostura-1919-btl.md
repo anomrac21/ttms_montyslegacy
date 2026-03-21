@@ -1,14 +1,18 @@
 ---
 title: Angostura 1919 Btl
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 500
-    flavour: "-"
-tags: ["Rum", "Angostura 1919"]
-ingredients: ["Rum"]
+- variable1: Bottle
+  variable2: '-'
+  price: 500
+tags:
+- Rum
+- Angostura 1919
+ingredients:
+- Rum
 cookingmethods: []
-types: ["Rum"]
+types:
+- Rum
 events: []
 ---

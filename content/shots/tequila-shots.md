@@ -1,15 +1,19 @@
 ---
 title: Tequila Shots
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Shot"
-    price: 30
-    flavour: "-"
-tags: ["Shot", "Tequila Shots"]
-ingredients: ["Tequila"]
+- variable1: Shot
+  variable2: '-'
+  price: 30
+tags:
+- Shot
+- Tequila Shots
+ingredients:
+- Tequila
 cookingmethods: []
-types: ["Shot"]
+types:
+- Shot
 events: []
 ---
 

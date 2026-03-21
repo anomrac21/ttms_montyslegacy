@@ -1,17 +1,20 @@
 ---
 title: Old Par
 weight: 10
-date: 2026-01-14T17:16:44Z
+date: 2026-01-14 17:16:44+00:00
 prices:
-  - size: "Bottle"
-    price: 650
-    flavour: "-"
-  - size: "Drink"
-    price: 45
-    flavour: "-"
-tags: ["Scotch", "Old Par"]
+- variable1: Bottle
+  variable2: '-'
+  price: 650
+- variable1: Drink
+  variable2: '-'
+  price: 45
+tags:
+- Scotch
+- Old Par
 ingredients: []
 cookingmethods: []
-types: ["Scotch"]
+types:
+- Scotch
 events: []
 ---
