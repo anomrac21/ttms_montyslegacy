@@ -2,7 +2,7 @@ locations:
   - address: "#46 High Street"
     city: "San Fernando"
     island: "Trinidad"
-    latlon: [10.281763,-6146597963175973.000000]
+    latlon: [10.281769788941608, -61.46598008968542]
     phone: "18682566689"
     whatsapp: "18682566689"
     subcategories: []
